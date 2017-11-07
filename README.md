@@ -10,3 +10,5 @@ Der Metallb√ºgel ist ein 2 mm Federstahl. Ich habe einfach einen Metallkleiderb√
 Designt mit Google SketchUp im www.erfindergarden.de 
 ![](https://github.com/minirevollo/Clipstick/blob/master/IMG_20170908_212122.jpg)
  
+
+<img width="49%" src="https://github.com/minirevollo/Clipstick/blob/master/IMG_20170908_212122.jpg" alt="'FLAT' view of the standesk model" />
